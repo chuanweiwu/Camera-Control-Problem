@@ -1,0 +1,2 @@
+# Camera-Control-Problem
+In this project, I am asked to design a camera controller, so the camera will be able to catch the target – In this project, I am asked to design a camera controller, so the camera will be able to catch the target and following the target. The motion of target will be recorded and stored for the further analysis. and following the target. The motion of target will be recorded and stored for the further analysis. 
